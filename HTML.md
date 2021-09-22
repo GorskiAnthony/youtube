@@ -204,7 +204,7 @@ Maintenant, si vous souhaitez apprendre le CSS, j'ai plus qu'à vous dire que vo
 
 Ah, JavaScript, le langage de programmation pour le web.
 
-Nous allons faire un peut de JS pour le challenge [frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Je vais pas tout détailler ici car je vais faire une série de vidéo 😁
+Nous allons faire un peu de JS pour le challenge [frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Je ne vais pas tout détailler ici, car je vais faire une série de vidéo 😁
 
 ```js
 // Je récupère mon formulaire
