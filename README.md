@@ -13,6 +13,7 @@
 ## Vidéos 🎥 
 
 1. [Les commandes de bases du terminal](./CLI.md)
+2. [Apprendre l'HTML](./HTML.md)
 
 ---
 
