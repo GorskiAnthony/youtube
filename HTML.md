@@ -269,7 +269,7 @@ function getError(property, id) {
 
 ## La playlist vidéo 🎥
 
-⭐️ La [playlist vidéo]() 🎥
+⭐️ La [playlist vidéo](https://youtube.com/playlist?list=PLD8uZVfhTUhScJyLSthJg3j-_mZroEWO7) 🎥
 Laisser un commentaire sur la vidéo et un 👍 ! ⭐️
 
 ## Documentation 🗂
